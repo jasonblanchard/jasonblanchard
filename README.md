@@ -3,8 +3,8 @@
 I'm a builder at heart who loves working across the stack[^1]. I get immense joy from seeing things work _____
 
 ⚡ Things that have inspired me:
-- Simple Made Easy
-- Evolutionary Architecture
+- Evolutionary Architecture - introduced the first principle of software architecture for me which is that there is no such thing as a perfect system, only systems that are more or less fit for their environments. Our job as software architects is to iteratively make our systems more fit for their environment, w.r.t. both the technical landscape and the business drivers.
+- Simple Made Easy - the second principle of sotware architecture is simplicity, but a very specific kind of simplicity. Not necessarily "easier" or "more familiar" or "with less stuff," but more "decomplected," or "less intertwined".
 - Refactoring UI
 
 Talks I've given:
