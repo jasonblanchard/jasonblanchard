@@ -14,7 +14,7 @@ I am a builder who loves working across the stack[^1]. I get immense joy from pu
 I was initially excited to write this section, but I decided to scrap it because it changes too often! The inspiration section :arrow_up: is far more evergreen and drives what tech I'm excited about at any given moment.
 
 [^1]: Seriously. I have probably shipped just as much code for React frontends as I have the APIs that back them and the infrastructure that runs it all :)
-[^2]: Up to but very much excluding the "microservice everything" recommendation. That's _one_ way, [but not the _only_ way]([url](https://shopify.engineering/deconstructing-monolith-designing-software-maximizes-developer-productivity)).
+[^2]: Up to but very much excluding the "microservice everything" recommendation. That's _one_ way, [but not the _only_ way](https://shopify.engineering/deconstructing-monolith-designing-software-maximizes-developer-productivity).
 
 <!--
 **jasonblanchard/jasonblanchard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
