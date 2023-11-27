@@ -1,6 +1,6 @@
 # Hi there, I'm [Jason](https://www.linkedin.com/in/jasonwblanchard/) 👋
 
-I'm a builder at heart who loves working across the stack[^1]. I get immense joy from putting things together and seeing them work, "things" being features, bug fixes, systems, teams, companies, and everything in between.
+I am a builder who loves working across the stack[^1]. I get immense joy from putting things together and seeing them work, "things" being features, bug fixes, systems, teams, companies, and everything in between.
 
 ## 🌱 Things that have inspired me
 - [**Evolutionary Architecture**](https://evolutionaryarchitecture.com/)[^2] - theoretical underpinning for what has become my first principle of software architecture: there is no such thing as a perfect system, only systems that are more or less fit for their environments. Our job as software architects is to iteratively make our systems more fit for their environment, w.r.t. both the technical landscape and the business drivers. This is the "what" and the "why" behind software architecture.
