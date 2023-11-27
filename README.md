@@ -11,7 +11,7 @@ I'm a builder at heart who loves working across the stack[^1]. I get immense joy
 - [Building the Right Island: What Should I Be Doing Right Now?](https://www.youtube.com/watch?v=edJD_QUp-WE&list=PLVUQjiv8GtwJeezuKvmL2kl6I9Gml0g2a&index=3) - Deserted Island DevOps · Sep 27, 2022
 
 ## ~:wrench: Tools I'm excited about right now~
-I was initially excited to write this section, but I decided to scrap it because it changes too often! The inspiration section :arrow_up: is far more evergreen.
+I was initially excited to write this section, but I decided to scrap it because it changes too often! The inspiration section :arrow_up: is far more evergreen and drives what tech I'm excited about at any given moment.
 
 [^1]: Seriously. I have probably shipped just as much code for React frontends as I have the APIs that back them and the infrastructure that runs it all :)
 [^2]: Up to but very much excluding the "microservice everything" recommendation. That's _one_ way, [but not the _only_ way]([url](https://shopify.engineering/deconstructing-monolith-designing-software-maximizes-developer-productivity)).
